@@ -1,3 +1,14 @@
-baseURL = "http://example.org/"
+baseurl = "https://in-christ.github.com/"
+title = "Nanshu's blog"
 languageCode = "en-us"
-title = "My New Hugo Site"
+disqusShortname = "peacechurch"
+copyright = "Copyright (c) 2018, Peace Church of Kaohsiung; all rights reserved."
+MetaDataFormat = "yaml"
+
+[author]
+    name = "Peace Church of Kaohsiung"
+
+[indexes]
+    tag = "tags"
+    topic = "topics"
+
