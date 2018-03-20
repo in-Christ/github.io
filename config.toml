@@ -6,7 +6,6 @@ enableRobotsTXT = true
 enableEmoji = true
 theme = "even"
 
-
 hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
 paginate = 20                                              # 首页每页显示的文章数
 disqusShortname = "peacechurch"             # disqus_shortname
@@ -45,7 +44,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 [params]
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
 
-  since = "2018"            # Site creation time          # 站点建立时间
+  since = "2017"            # Site creation time          # 站点建立时间
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
   logoTitle = "wiseturtles"        # default: the title value    # 默认值: 上面设置的title值
@@ -92,8 +91,8 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    a-email = "mailto:m945371@gmail.com"
-    g-github = "https://github.com/in-Christ"
+    a-email = "mailto:ox0spy@gmail.com"
+    g-github = "https://github.com/ox0spy"
 
 # 将下面这段配置取消注释可以使 hugo 生成 .md 文件
 # Uncomment these options to make hugo output .md files.
