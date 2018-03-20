@@ -1,14 +1,7 @@
-baseurl = "https://in-christ.github.com/"
-title = "Nanshu's blog"
-languageCode = "en-us"
-disqusShortname = "peacechurch"
-copyright = "Copyright (c) 2018, Peace Church of Kaohsiung; all rights reserved."
-MetaDataFormat = "yaml"
-
-[author]
-    name = "Peace Church of Kaohsiung"
-
-[indexes]
-    tag = "tags"
-    topic = "topics"
-
+baseURL = "https://in-Christ.github.io"
+languageCode = "zh-tw"
+defaultContentLanguage = "en"
+title = "高雄和平教會 Peace Church of Kaohsiung"
+enableRobotsTXT = true
+enableEmoji = true
+theme = "even"
